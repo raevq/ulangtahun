@@ -1078,18 +1078,18 @@ audio {
 .balloons {
 	position: absolute;
 	bottom: -200px;
-	opacity: 0.6;
+	opacity: 0.7;
 	z-index: 99;
-	width: 50px;
-	height: 91px;
-	margin: 10px;
+	width: 37px;
+	height: 68px;
+	margin: 0px;
 	background-repeat: no-repeat no-repeat;
 	background-size: 50px 91px;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 25px;
+	font-size: 18px;
 	color: #BF4136;
 	text-shadow: 3px 3px 3px #FFF;
 	display: none;
